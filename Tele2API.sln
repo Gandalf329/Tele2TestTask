@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tele2API", "Tele2_webAPI\Tele2API.csproj", "{A94490F9-6BD8-43FA-A4FC-BD43720F1A28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tele2API.UnitTest", "Tele2_webAPI.UnitTest\Tele2API.UnitTest.csproj", "{0D09D724-A9CB-4E97-BDDB-70BD3FD76F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94490F9-6BD8-43FA-A4FC-BD43720F1A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94490F9-6BD8-43FA-A4FC-BD43720F1A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94490F9-6BD8-43FA-A4FC-BD43720F1A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94490F9-6BD8-43FA-A4FC-BD43720F1A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D09D724-A9CB-4E97-BDDB-70BD3FD76F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D09D724-A9CB-4E97-BDDB-70BD3FD76F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D09D724-A9CB-4E97-BDDB-70BD3FD76F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D09D724-A9CB-4E97-BDDB-70BD3FD76F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7132EB2-CC16-41C6-8F5C-D9E30357DCA4}
+	EndGlobalSection
+EndGlobal

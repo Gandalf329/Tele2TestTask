@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d09d724-a9cb-4e97-bddb-70bd3fd76f1b": {
+      "ProjectGuid": "0d09d724-a9cb-4e97-bddb-70bd3fd76f1b",
+      "DisplayName": "Tele2API.UnitTest",
+      "ColorIndex": 0
+    },
+    "a94490f9-6bd8-43fa-a4fc-bd43720f1a28": {
+      "ProjectGuid": "a94490f9-6bd8-43fa-a4fc-bd43720f1a28",
+      "DisplayName": "Tele2API",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
